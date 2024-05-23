@@ -1,0 +1,13 @@
+.color{
+    color:#7541c8;
+    color:#48556a;
+    color:#19212e;
+    color:#cfcfcf;
+    color:#ecf2f8;
+}
+.first{
+    background-image: url('/images/bg-pattern-quotation.svg');
+    background-repeat: no-repeat;
+    background-size:  contain;
+    background-position:  top 0 right 0;
+}
